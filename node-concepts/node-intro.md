@@ -8,8 +8,8 @@
 - dependencies - packages that are needed in production.
 - devdependenices - packages that are needed only in development to ease our development.
 
-# Topics will be covered
+# Topics covered
 
 - process
 - env variables
-- 
+- crypto
